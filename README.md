@@ -24,3 +24,15 @@ Future Improvements:
 -> Huge Database with offline Support.
 -> Google Cloud Storage/AWS storage.
 -> Backend will be with Node.js.
+
+
+
+
+
+Hotel Trip App:
+-> UI design Only
+
+Future Improvements:
+-> Api development in Node.js
+-> MVVM Architecture
+-> and many more.
